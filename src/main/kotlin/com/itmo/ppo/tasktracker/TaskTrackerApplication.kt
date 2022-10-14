@@ -1,4 +1,4 @@
-package com.itmo.ppo.tasktracker.tasktracker
+package com.itmo.ppo.tasktracker
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
